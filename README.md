@@ -33,6 +33,9 @@ Here are some things that can probably be modded in Ravenfield:
 | Patriot           | Assault        | Primary      | Assault Rifle                       | EA 1       |
 | Patriot GL        | Assault        | Primary      | Assault Rifle /w Attachment         | EA 13      |
 | Patriot TAC       | Assault        | Primary      | Suppressed Assault Rifle            | EA 21      |
+| Supernova         | Assault        | Primary      | Bullpup Battle Rifle                | EA 34      |
+| Ripcord           | Assault        | Primary      | SMG                                 | EA 34      |
+| Jolt-20-S         | Assault        | Primary      | Suppressed SMG                      | EA 34
 | SL-Defender       | Marksman       | Primary      | Sniper Rifle                        | Beta 1     |
 | Recon LRR         | Marksman       | Primary      | Long Rangle Battle Rifle            | Beta 4     |
 | M1 Garrett        | Marksman       | Primary      | Battle Rifle                        | EA 5       |
@@ -62,6 +65,7 @@ Here are some things that can probably be modded in Ravenfield:
 | Ammo Bag          | Equipment      | Slot Utility | Deployable AOE Support Tool         | Beta 1     |
 | Medic Bag         | Equipment      | Slot Utility | Deployable AOE Support Tool         | Beta 1     |
 | Airhorn           | Equipment      | Slot Utility | Sonic Weapon                        | EA 1       |
+| Thunder Katana    | Equipment      | Primary      | Longsword                           | EA 39      |
 
 ### Vehicles
 | Name                           | Vehicle Type | Appearance  | Armor Type | Vehicle Description                  | Re-skinned |
@@ -77,4 +81,3 @@ Here are some things that can probably be modded in Ravenfield:
 | Cassowary Bomber               | Plane        | EA 2        | Medium     | Medium Bomber Plane                  | EA 24      |
 | Marlin RHIB                    | Boat         | Beta 1      | Light      | RHIB                                 | EA 18      |
 | Attack Boat                    | Boat         | Beta 6/EA 1 | Heavy      | Fast Attack Craft/Patrol Boat        | Not Yet    |
-
